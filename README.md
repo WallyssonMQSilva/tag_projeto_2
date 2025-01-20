@@ -21,6 +21,10 @@ pip install networkx
 
 2. Execução do programa
 
+***OBSERVAÇÃO IMPORTANTE***
+Para executar o código corretamente a seguinte mudança deve ser feita no arquivo de entradas:
+O aluno 177 é o único com a formatação errada, é necessário adicionar um espaço entre as preferências e a nota
+
 Coloque o arquivo de entrada entradaProj2.24TAG.txt no mesmo diretório do script e execute:
 
 python nome_do_arquivo.py
