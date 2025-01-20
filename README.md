@@ -1,3 +1,5 @@
+Wallysson Matheus de Queiroz Silva - 231038798
+
 **Descrição:**
 
 Este projeto implementa uma variação do algoritmo de Gale-Shapley para emparelhamento estável entre alunos e projetos.
