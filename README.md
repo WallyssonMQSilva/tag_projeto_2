@@ -1,9 +1,9 @@
-Descrição:
+**Descrição:**
 
 Este projeto implementa uma variação do algoritmo de Gale-Shapley para emparelhamento estável entre alunos e projetos.
 A cada iteração, um aluno é escolhido aleatoriamente como ponto de partida, permitindo diferentes configurações de alocação.
 
-Instalação e Execução
+**Instalação e Execução**
 
 1. Dependências
 
@@ -29,7 +29,7 @@ Coloque o arquivo de entrada entradaProj2.24TAG.txt no mesmo diretório do scrip
 
 python nome_do_arquivo.py
 
-Estrutura do Código
+**Estrutura do Código**
 
 Principais Funções
 
@@ -45,7 +45,7 @@ main(): Função principal que coordena a execução.
 
 
 
-Variação do Algoritmo de Gale-Shapley:
+**Variação do Algoritmo de Gale-Shapley:**
 
 Diferentemente do algoritmo tradicional, onde a ordem de execução dos alunos é fixa, esta implementação:
 
